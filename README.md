@@ -1,6 +1,8 @@
 # ddr-itgmania
 Short guide how to set up a Dance Dance Revolution cabinet + linux PC with ITGMania.
 
+<img src="/ddr.jpg" width="300" />
+
 ## Hardware
 
 ### What you need 
